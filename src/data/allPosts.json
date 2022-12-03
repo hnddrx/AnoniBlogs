@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "username": "wren",
+        "password": "pass", 
+        "title": "Mech Keebs", 
+        "body": "Not all mechanical keyboards are created equal. In fact, the type of switch you choose can make a world of difference in terms of how you feel when you're using it. Let's take a look at the different types of switches and the benefits they offer: 1. Cherry MX Blue: This type of switch is perfect for typists. It offers a tactile and clicky response, which makes it really satisfying to use. The downside is that it's a bit loud, so it's not ideal if you're trying to be quiet in a shared space.2. Cherry MX Brown: This switch is also great for typists, but it offers a more muted response. It's still tactile, but doesn't have the same audible click that the Blue switch does. 3. Cherry MX Black: If you're looking for a switch that offers linear feedback and no clicking noise, then the Black switch is perfect for you. It's ideal for gaming because it allows you to quickly execute commands without any distractions. 4. Cherry MX Red: This is another linear switch, but it's slightly softer than the Black switch. It's perfect for people who want a fast, responsive keyboard without any extra noise.",
+        "timeCreated": "4:14:42 PM",
+        "dateCreated": "Fri Oct 28 2022",
+        "status": "notLogged"
+    },
+    {
+        "id": 2,
+        "username": "Mendrick", 
+        "password": "pass2", 
+        "title": "React.js", 
+        "body": "React is a JavaScript library for building user interfaces. It's a declarative, efficient, and powerful solution that frees you from the tight coupling of DOM manipulations. The React library is also just the veneer: it doesn't force any specific patterns on your application architecture. Instead, it lets you use what works best for your team! It's perfect for building UIs with large data sets and nuanced interactions at scale.",
+        "timeCreated": "5:14:42 PM",
+        "dateCreated": "Fri Oct 28 2022",
+        "status": "notLogged"
+    },
+    {
+        "id": 3,
+        "username": "haidee", 
+        "password": "pass3", 
+        "title": "Self-Esteem", 
+        "body": "Self esteem is crucial for all people to maintain a sense of self. Some people may find themselves in a rut where they feel like they are not good enough and don't deserve the happiness and success that they want. Others may often compare themselves to others, constantly feeling like they do not measure up and comparing their own accomplishments to those of others. Engaging in these activities can indeed make one feel worse about themselves, or lead them down into an abyss of negative thought patterns that will cause low self esteem.",
+        "timeCreated": "6:14:42 PM",
+        "dateCreated": "Fri Oct 28 2022",
+        "status": "notLogged"
+    
+    },
+    {
+        "id": 4,
+        "username": "Kiroki", 
+        "password": "pass4", 
+        "title": "Mobile Legends", 
+        "body": "Mobile legends is a mobile phone game where the player will be picked from 5 basic character to choose from. There are some more heroes that can be unlocked during gameplay. The hero's most important statistic is their strength stat, followed by health unit and speed. Battles involve two teams of five players, with team members each controlling one ",
+        "timeCreated": "7:14:42 PM",
+        "dateCreated": "Fri Oct 28 2022",
+        "status": "notLogged"
+    }  
+]

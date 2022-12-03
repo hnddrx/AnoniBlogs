@@ -1,0 +1,12 @@
+a{
+  color: inherit;
+  text-decoration: none;
+ 
+}
+
+li{
+  list-style: none;
+}
+body{
+  background-color: rgb(31, 31, 44);
+}
